@@ -1,0 +1,3 @@
+A whimsical and cartoon style painting of Chicago-style deep-dish pizza, surrounded by cheerful, colorful and joyful items represents Chicago, energetic and joyful color, , insanely detailed, highly detailed, master piece, beautiful day, best quality <lora:add_detail:0.8>
+Negative prompt: worst quality, low quality, normal quality, balck and white, blurry, ugly, out of frame, distorted, distorted shapes, FastNegativeV2
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3471649706, Size: 512x512, Model hash: cbfba64e66, Model: counterfeitV30_v30, Denoising strength: 0.7, Hires upscale: 2, Hires upscaler: Latent, Lora hashes: "add_detail: 7c6bad76eb54", TI hashes: "FastNegativeV2: a7465e7cc2a2", Version: v1.6.0-129-g44006297
